@@ -1,3 +1,5 @@
+![Lavarse las manos](Gifs/Lavarse_las_manos_Guemil.gif)
+
 Dentro de la práctica profesional de Carla Castillo se crean los íconos animados de Guemil, los cuales tienen por objetivo llevar el material actual de Guemil a un formato en movimiento para así poder abarcar más plataformas web de una manera innovadora. Además, se busca que estos comuniquen de mejor manera el significado del ícono en estas plataformas. 
 
 Para estas animaciones se establecieron principios generales que deben seguir todos estos íconos en movimiento, con el objetivo de que haya una uniformidad y cumplan con el objetivo general de Guemil, icons for Emergency, que es informar acerca de acciones, emergencias y riesgos. 
