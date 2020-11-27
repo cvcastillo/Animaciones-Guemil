@@ -1,4 +1,7 @@
 ![Lavarse las manos](Gifs/Lavarse_las_manos_Guemil.gif)
+![Carga](Gifs/Carga_Guemil.gif)
+![Exclamación](Gifs/Exclamacion_Guemil.gif)
+![Interrogación](Gifs/Interrogacion_Guemil.gif)
 
 # Guemil Animations
 
