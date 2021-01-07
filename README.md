@@ -2,6 +2,7 @@
 ![Carga](Gifs/Carga_Guemil.gif)
 ![Exclamación](Gifs/Exclamacion_Guemil.gif)
 ![Interrogación](Gifs/Interrogacion_Guemil.gif)
+![Flecha](Gifs/Flecha_Guemil.gif)
 
 # Guemil Animations
 
